@@ -1,4 +1,4 @@
-# CodeClauseInternship_Brain-Tumor-Detection
+# TNDSC_GEN-AI_Brain-Tumor-Detection
 Building a detection model using a convolutional neural network in Tensorflow & Keras.<br>
 Used a brain MRI images data founded on Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).<br>
 
